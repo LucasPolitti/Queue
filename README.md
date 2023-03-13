@@ -1,5 +1,5 @@
 # Queue
-##O que esse código faz?
+## O que esse código faz?
 
 O código apresenta uma classe chamada Queue, que é uma implementação de uma fila. A fila é uma estrutura de dados que armazena elementos em uma ordem específica, em que o primeiro elemento a ser adicionado é o primeiro a ser removido (FIFO - First In, First Out).
 
